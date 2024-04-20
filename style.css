@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 202vh; /* ALTURA */
+    width: 138vw; /* LARGURA */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botao_menu_home {
+
+    padding: 10px 10px;
+    border: none; 
+    border-radius: 5px; 
+    flex-direction: column;
+    align-content: center; 
+    display: flex;
+    align-items: center;
+}
+.titulo_home {
+    color: #0B3B60;
+    display: flex; 
+}
+.body_home{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+}
+.titulo2_home {
+  
+    color: #161717;
+}
+.botao-sem-borda {
+    border: none;
+    cursor: pointer;
+    margin: 0; 0; 0; 0;
+}
