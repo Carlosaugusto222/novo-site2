@@ -2,14 +2,14 @@ body {
     background-color: #ffffff;
     background-size: cover;
     display: flex;
-    height: 100vh; /* ALTURA */
+    height: 90vh; /* ALTURA */
     flex-direction: column;
     align-items: center;
     justify-content: center;
 
 }
 .splash {
-    height: 80vh; /* ALTURA */
+    height: 90vh; /* ALTURA */
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -44,6 +44,6 @@ body {
     margin: 0;
 }
 
-        width: 80%;
+        width: 100%;
     }
 }
